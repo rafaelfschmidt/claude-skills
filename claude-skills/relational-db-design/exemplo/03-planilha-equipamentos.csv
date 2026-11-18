@@ -1,7 +1,0 @@
-patrimonio,tipo,serie_fabricante,diaria,semanal,mensal,situacao,obs_oficina
-BET-014,Betoneira 400L,MN4400-88213,45.00,250.00,850.00,locado,
-BET-022,Betoneira 400L,,45.00,250.00,850.00,disponivel,plaqueta perdida
-AND-101,Painel de andaime 1x1m,,3.50,20.00,60.00,disponivel,
-GER-002,Gerador 6kVA,GX6-55120,120.00,700.00,2400.00,locado,
-GER-007,Gerador 6kVA,GX6-55388,120.00,700.00,2400.00,locado,trocado óleo 12/09
-COM-003,Compactador de solo,CS70-3021,90.00,500.00,1700.00,manutencao,"motor falhando, aguardando peça"
