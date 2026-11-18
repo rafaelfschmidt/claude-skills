@@ -1,0 +1,5 @@
+email_cliente,nome_cliente,cpf_cnpj,telefone,endereco_obra,data_inicio,data_devolucao,equipamentos,valor_total,status
+compras@construtoravale.com.br,Construtora Vale Verde,12.345.678/0001-90,(31) 99876-5432,"Rua das Acácias, 120, Eldorado, Contagem",2026-09-01,2026-10-15,"BET-014; BET-022; AND-101 a AND-110",4850.00,devolvido
+suprimentos@construtoravale.com.br,Construtora Vale Verde,12.345.678/0001-90,+55 31 99876-5432,"Av. João César de Oliveira, 2400, Eldorado, Contagem",2026-10-03,,"GER-007",1900.00,ativo
+joao.p@gmail.com,João Pereira,123.456.789-00,31988887777,"Rua Itaúna, 45, Padre Eustáquio, Belo Horizonte",2026-10-10,2026-10-17,"COM-003",420.00,devolvido
+obras@horizonteeng.com.br,Horizonte Engenharia,98.765.432/0001-10,(31) 3333-2222,"Rua Rio Grande do Norte, 900, Savassi, Belo Horizonte",2026-10-20,,"BET-014; AND-111 a AND-130; GER-002",7300.00,ativo
